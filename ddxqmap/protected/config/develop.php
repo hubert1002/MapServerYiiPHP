@@ -7,7 +7,7 @@
 // CWebApplication properties can be configured here.
 return array(
 	'basePath'=>dirname(__FILE__).DIRECTORY_SEPARATOR.'..',
-	'name'=>'叮咚小区地图系统',
+	'name'=>'地图系统',
 
 	// preloading 'log' component
 	'preload'=>array('log'),
@@ -24,7 +24,7 @@ return array(
 		
 		'gii'=>array(
 			'class'=>'system.gii.GiiModule',
-			'password'=>'test',
+			'password'=>'password',
 			// If removed, Gii defaults to localhost only. Edit carefully to taste.
 		//	'ipFilters'=>array('10.192.248.94','::1'),
             'ipFilters'=>array('*','::1'),
@@ -57,7 +57,7 @@ return array(
             'connectionString' => 'mysql:host=localhost;dbname=mapmgr',
             'emulatePrepare' => true,
             'username' => 'root',
-            'password' => 'admin',
+            'password' => 'password',
             'charset' => 'utf8',
         ),
 

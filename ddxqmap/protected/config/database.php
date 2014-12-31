@@ -15,7 +15,7 @@ return array(
         //'connectionString' => 'mysql:host=10.192.10.155;dbname=Test',
         'emulatePrepare' => true,
         'username' => 'root',
-        'password' => 'ddxq@map4dev',
+        'password' => 'password',
         'charset' => 'utf8',
 
 
