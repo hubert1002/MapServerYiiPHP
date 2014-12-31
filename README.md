@@ -11,9 +11,5 @@ lnmp
 
 
 ## 访问地址
-### 访问地址
-http://map.ddxq.mobi/ddxqmap/index.php
-### 数据库
-http://map.ddxq.mobi/phpmyadmin/
-### 网页访问
-http://map.ddxq.mobi/map-mgr/index.html#
+http://map.ddxq.mobi/
+
